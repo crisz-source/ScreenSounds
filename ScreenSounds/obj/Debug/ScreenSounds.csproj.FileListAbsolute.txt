@@ -1,0 +1,15 @@
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.exe.config
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.exe
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.pdb
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.exe
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.pdb
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.exe.config
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.exe
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\bin\Debug\ScreenSounds.pdb
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.csproj.AssemblyReference.cache
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.exe
+C:\Users\Cristhian\Desktop\Todas as pastas\Estudando\Alura\c#\projetosAlura\ScreenSounds\ScreenSounds\obj\Debug\ScreenSounds.pdb
